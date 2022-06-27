@@ -5,7 +5,7 @@
 - Développeur chez [Slash FR](https://discord.gg/fr)
 - Développeur des bots Nono & Voicer
 
-## 🌍 Langages de programmation :
+## 🌍 Langage de programmation :
 
 ![Language](https://skillicons.dev/icons?i=ts,js,php,html,css,java,lua,cs,cpp&theme=dark)
 
