@@ -38,7 +38,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## 🪛 Other :
+## 🛠️ Other :
 
 ![Other](https://skillicons.dev/icons?i=docker,git,github,gitlab&theme=dark)
 <img alt="NPM" src="https://logo.clearbit.com/npmjs.com" width="48" height="48" />
@@ -49,7 +49,7 @@
 | Nom        | Lien                                              | Description                                                              |
 |------------|---------------------------------------------------|--------------------------------------------------------------------------|
 | Monster.js | Soon 👀                                           | Soon 👀                                                                  |
-| Nono       | ❌ Aucun                                           | Bot Discord privé multifonction de l'association Project Conquerors.     |
+| Nono       | [Test Nono sur PCS](https://discord.gg/jeu)       | Bot Discord privé multifonction de l'association Project Conquerors.     |
 | Voicer     | [Test Voicer sur Slash FR](https://discord.gg/fr) | Bot Discord de gestion de vocaux temporaire actuellement en bêta fermée. |
 
 <img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaXGamiG&locale=fr&theme=discord_old_blurple" />
