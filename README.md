@@ -1,9 +1,8 @@
 ## 👋 Bienvenue sur la HaXGamiG's Github homepage
 
 - Développeur fullstack
-- Membre du conseil d'administration et responsable développement en tant que bénévole dans l'association [Project Conquerors](https://project-conquerors.com)
-- Développeur chez [Slash FR](https://discord.gg/fr)
-- Développeur des bots Nono & Voicer
+- Responsable développement chez [Slash FR](https://discord.gg/fr)
+- Développeur des bots Voicer & RaidProtect
 
 ## 🌍 Langage de programmation :
 
@@ -48,8 +47,7 @@
 ## 🚩 Projets :
 | Nom        | Lien                                              | Description                                                              |
 |------------|---------------------------------------------------|--------------------------------------------------------------------------|
-| Monster.js | Soon 👀                                           | Soon 👀                                                                  |
-| Nono       | [Test Nono sur PCS](https://discord.gg/jeu)       | Bot Discord privé multifonction de l'association Project Conquerors.     |
 | Voicer     | [Test Voicer sur Slash FR](https://discord.gg/fr) | Bot Discord de gestion de vocaux temporaire actuellement en bêta fermée. |
+| RaidProtet | [RaidProtect](https://discord.gg/raidprotect)     | Bot anti raid                                                            |
 
 <img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaXGamiG&locale=fr&theme=discord_old_blurple" />
