@@ -1,8 +1,6 @@
 ## 👋 Bienvenue sur la HaXGamiG's Github homepage
 
 - Développeur fullstack
-- Responsable développement chez [Slash FR](https://discord.gg/fr)
-- Développeur des bots Voicer & RaidProtect
 
 ## 🌍 Langage de programmation :
 
@@ -47,7 +45,6 @@
 ## 🚩 Projets :
 | Nom        | Lien                                              | Description                                                              |
 |------------|---------------------------------------------------|--------------------------------------------------------------------------|
-| Voicer     | [Test Voicer sur Slash FR](https://discord.gg/fr) | Bot Discord de gestion de vocaux temporaire actuellement en bêta fermée. |
-| RaidProtet | [RaidProtect](https://discord.gg/raidprotect)     | Bot anti raid                                                            |
+| x          | w                                                 | x                                                                        |
 
 <img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaXGamiG&locale=fr&theme=discord_old_blurple" />
